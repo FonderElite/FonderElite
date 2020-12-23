@@ -1,4 +1,3 @@
-# Profile
 <h1 align="center">Hi 👋, I'm FonderElite</h1>
 <h3 align="center">A CyberSecurity Student and a Web Developer🕵️</h3>
 
@@ -6,12 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fonderelite" alt="fonderelite" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/fonderelite" target="blank"><img src="https://img.shields.io/twitter/follow/fonderelite?logo=twitter&style=for-the-badge" alt="fonderelite" /></a> </p>
+
+- 💬 Ask me about **FrontEnd,Pentesting**
+
 - 📫 How to reach me **https://discord.com/invite/hnjr3HMBpb**
 
 - ⚡ Fun fact **Im a weird human being**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/fonderelite" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fonderelite" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.com/invite/hnjr3HMBpb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.com/invite/hnjr3HMBpb" height="30" width="40" /></a>
 </p>
 
