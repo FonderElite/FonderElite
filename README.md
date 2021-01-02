@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **https://discord.com/invite/hnjr3HMBpb**
 
-- ⚡ Fun fact **Im a weird human being**
+- ⚡ Fun fact: **Im a weird human being**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
