@@ -14,7 +14,7 @@
 - ⚡ Fun fact **Iam a weird person**
 
 -👾 Favorite Languages **JS, Python, C++,**
-# CTF Profile
+## CTF Profile
 <img src="THM-50CSIP19SL.png">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
