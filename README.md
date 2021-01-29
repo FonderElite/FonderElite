@@ -15,6 +15,7 @@
 
 - 👾 Favorite Languages **JS, Python, C++,**
 ## 🏁CyberSec Profile
+<script src="https://tryhackme.com/badge/190994"></script>
 <img src="THM-50CSIP19SL.png">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
