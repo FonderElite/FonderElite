@@ -32,7 +32,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fonderelite&show_icons=true&locale=en" alt="fonderelite" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonderelite&" alt="fonderelite" /></p>
-| Socials| Link |
+| Socials | Link |
 | ------ | ------ |
 | GitHub | [https://github.com]() |
 | Twitter | [https:/twitter.com/elitefonder]() |
