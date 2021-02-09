@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fonderelite" alt="fonderelite" /></a> </p>
 
-- 🌱 I’m currently learning **Jquery,React,NodeJs**
+- 🌱 I’m currently learning **React,NodeJs**
 
 - 💬 Ask me about **FrontEnd & Python**
 
