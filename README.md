@@ -14,6 +14,13 @@
 - ⚡ Fun fact **Iam a weird person**
 
 - 👾 Favorite Languages **JS, Python, C++,**
+
+### :octocat: Open Source
+
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/fonderelite) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/fonderelite) [![PRs Welcome](https://komarev.com/ghpvc/?username=fonderelite&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/fonderelite)
+
+**Say Hi on Twitter([@elitefonder](https://twitter.com/elitefonder))!** :heart: 💬
+
 ## 🏁CyberSec Profile
 <img src="JusticeServed.png" alt="TryHackMe">
 <img src="THM-50CSIP19SL.png">
@@ -33,9 +40,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonderelite&" alt="fonderelite" /></p>
 
-### :octocat: Open Source
-
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/fonderelite) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/fonderelite) [![PRs Welcome](https://komarev.com/ghpvc/?username=fonderelite&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/fonderelite)
-
-**Say Hi on Twitter([@elitefonder](https://twitter.com/elitefonder))!** :heart: 💬
 
