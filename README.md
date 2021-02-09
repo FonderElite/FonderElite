@@ -37,7 +37,7 @@
 
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
 
-![FonderElite's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=FonderElitet&show_icons=true&theme=radical)
+![FonderElite's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=FonderElite&show_icons=true&theme=radical)
 ![FonderElite's Github Stats](https://github-readme-stats.vercel.app/api?username=FonderElite&show_icons=true&theme=radical)
 <a href="https://github.com/FonderElite/facerecognition">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FonderElite&repo=facerecognition&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
