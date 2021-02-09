@@ -34,10 +34,16 @@
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fonderelite&show_icons=true&locale=en&layout=compact" alt="fonderelite" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fonderelite&show_icons=true&locale=en" alt="fonderelite" /></p>
+## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fonderelite&" alt="fonderelite" /></p>
+![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api/top-langs?username=larrymahumot&show_icons=true&theme=radical)
+![Larry Mahumot's Github Stats](https://github-readme-stats.vercel.app/api?username=larrymahumot&show_icons=true&theme=radical)
+<a href="https://github.com/larrymahumot/google-it-support">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-support&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
+</a>
+<a href="https://github.com/larrymahumot/google-it-automation">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=larrymahumot&repo=google-it-automation&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
+</a>    
 
 
