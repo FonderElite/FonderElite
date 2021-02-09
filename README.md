@@ -1,4 +1,4 @@
- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> <h1 align="center"> Hi, I'm  Iam Fonder/Droid</h1>
+ <h1 align="center"> 👋 Hi, I'm  Iam Fonder/Droid</h1>
 <h2 align="center">🕵️‍♂️A Web dev/CyberSecurity Student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fonderelite&label=Profile%20views&color=0e75b6&style=flat" alt="fonderelite" /> </p>
@@ -28,7 +28,7 @@
 
 ## 🏁CyberSec Profile
 <img src="JusticeServed.png" alt="TryHackMe">
-<img src="THM-50CSIP19SL.png">
+<img src="THM-50CSIP19SL.png" width="70px">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@fonderelite" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@fonderelite" height="30" width="40" /></a>
