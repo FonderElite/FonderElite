@@ -1,4 +1,4 @@
- <h1 align="center"> Hi, I'm  Iam Fonder/Droid</h1> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+ <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px"> <h1 align="center"> Hi, I'm  Iam Fonder/Droid</h1>
 <h2 align="center">🕵️‍♂️A Web dev/CyberSecurity Student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fonderelite&label=Profile%20views&color=0e75b6&style=flat" alt="fonderelite" /> </p>
