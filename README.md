@@ -1,4 +1,4 @@
-<img src="https://thumbs.gfycat.com/ScratchyAlertBergerpicard-max-1mb.gif" height="100" width="100" alighn="center">
+<img src="https://thumbs.gfycat.com/ScratchyAlertBergerpicard-max-1mb.gif" height="100" width="150" alighn="center">
 <h1 align="center"> 👋 Hi, I'm  Iam Fonder/Droid</h1> 
 <h2 align="center">🕵️‍♂️A Web dev/CyberSecurity Student.</h3>
 
