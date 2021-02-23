@@ -35,7 +35,7 @@
 <a href="https://twitter.com/@fonderelite" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@fonderelite" height="30" width="40" /></a>
 </p>
 
-## Code-Wars Profile
+## 🔴Code-Wars Profile
 <img src="l.svg">
 
 <h3 align="left">Languages and Tools:</h3>
