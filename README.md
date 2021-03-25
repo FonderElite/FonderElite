@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **FrontEnd & Python**
 
-- 📫 How to reach me? **s1416013@usls.edu.ph**
+- 📫 How to reach me? **s1170044@usls.edu.ph** or **s1416013@usls.edu.ph**
 
 - ⚡ Fun fact **Iam a weird person**
 
