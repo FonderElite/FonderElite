@@ -53,7 +53,7 @@
 <a href="https://github.com/FonderElite/facerecognition">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FonderElite&repo=facerecognition&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
 </a>
-<a href="https://github.com/lFonderElite/facerecognition">
+<a href="https://github.com/lFonderElite/deadswitch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FonderElite&repo=deadswitch&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
 </a>    
 
