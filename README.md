@@ -28,7 +28,7 @@
 **Say Hi on Twitter([@elitefonder](https://twitter.com/elitefonder))!** :heart: 💬
 
 ## 🏁CyberSec Profile
-<img src="THM-50CSIP19SL.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/JusticeServed.png" alt="TryHackMe">
 <img src="THM-50CSIP19SL.png" width="500">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
