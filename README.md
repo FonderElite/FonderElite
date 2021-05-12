@@ -1,4 +1,4 @@
-<img src="https://66.media.tumblr.com/tumblr_m9xu9zv9eH1rfjowdo1_500.giff" height="150" width="150" alighn="center">
+<img src="https://66.media.tumblr.com/tumblr_m9xu9zv9eH1rfjowdo1_500.gif" height="150" width="150" alighn="center">
 <h1 align="center"> 👋 Hi, I'm  Iam Fonder/Droid</h1> 
 <h2 align="center">🕵️‍♂️A Web dev/CyberSecurity Student.</h3>
 
