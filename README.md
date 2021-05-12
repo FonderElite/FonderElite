@@ -1,4 +1,5 @@
 <img src="https://i.pinimg.com/originals/29/ca/76/29ca767e0d917e541cd18eb97f4825dc.gif" width="150" alighn="center"><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c197a166-fd45-4106-8dea-ba5fbb794192/da5vc4q-edd891a1-172b-4399-8db5-ff33c3e3c7b3.png/v1/fill/w_160,h_160,strp/golbez_trainer_sprite_by_rbrnnova_da5vc4q-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTYwIiwicGF0aCI6IlwvZlwvYzE5N2ExNjYtZmQ0NS00MTA2LThkZWEtYmE1ZmJiNzk0MTkyXC9kYTV2YzRxLWVkZDg5MWExLTE3MmItNDM5OS04ZGI1LWZmMzNjM2UzYzdiMy5wbmciLCJ3aWR0aCI6Ijw9MTYwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.wabIV_wSotpPPHOQ9e36-Vq-UeUJLsQ-vYnG8JhYNfc">
+<img src="https://img.itch.zone/aW1nLzQ0NTQ0ODEuZ2lm/original/OnrQhz.gif">
 <h1 align="center"> 👋 Hi, I'm  Iam Fonder/Droid</h1> 
 <h2 align="center">🕵️‍♂️A Web dev/CyberSecurity Student.</h3>
 
