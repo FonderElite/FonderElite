@@ -5,7 +5,7 @@
 <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-%23D14836.svg?&style=flat-square&logo=youtube&logoColor=white" width=103px></a>
 <a href="https://buymeacoffee.com"><img src="https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black" width=153px></a>
 
-### 💻 Codewars
+### 💻 Profiles
 <img src="https://www.codewars.com/users/FonderElite/badges/large" width="300px">
 
 ### :octocat: Open Source
