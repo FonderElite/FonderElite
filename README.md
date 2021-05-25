@@ -1,4 +1,4 @@
-#  Hi, I'm FonderElite [:computer::black_flag::coffee:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">]
+#  Hi, I'm FonderElite [:computer::green flag::music:<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">]
 
 ### :octocat: Open Source
 
