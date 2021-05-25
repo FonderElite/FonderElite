@@ -1,4 +1,4 @@
-#  Hi, I'm FonderElite < 💻 🎵 :octocat: <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">/>
+#  Hi, I'm FonderElite < 💻 🎵 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">/>
 <a href="https://www.facebook.com/fonderelite/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" style="max-width:100%;"></a>
 <a href="https://www.linkedin.com/in/fonderelite/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;"></a>
 <a href="mailto:s1170044@usls.edu.ph"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
