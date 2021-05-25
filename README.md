@@ -1,4 +1,4 @@
-#  Hi, I'm FonderElite <<img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/ top=1%;> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">/>
+#  Hi, I'm FonderElite < 💻 🎵 🍀 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">/>
 
 ### :octocat: Open Source
 
