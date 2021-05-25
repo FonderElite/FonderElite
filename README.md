@@ -2,8 +2,8 @@
 <a href="https://www.facebook.com/fonderelite/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" style="max-width:100%;"></a>
 <a href="https://www.linkedin.com/in/fonderelite/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;"></a>
 <a href="mailto:s1170044@usls.edu.ph"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="mailto:s1170044@usls.edu.ph"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
-<a href="https://weibo.com/7412800321/profile"><img src="https://img.shields.io/badge/微博-%23E6162D.svg?&style=for-the-badge&logo=Sina%20Weibo&logoColor=white" style="max-width:100%;" style="max-width:100%;"></a>
+<a href="mailto:s1170044@usls.edu.ph"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=flat-square&logo=youtube&logoColor=white"></a>
+
 ### :octocat: Open Source
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/fonderelite) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/fonderelite) [![PRs Welcome](https://komarev.com/ghpvc/?username=fonderelite&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/fonderelite)
