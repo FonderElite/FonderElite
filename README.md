@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/fonderelite/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;"></a>
 <a href="mailto:s1170044@usls.edu.ph"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-%23D14836.svg?&style=flat-square&logo=youtube&logoColor=white" width=103px></a>
-<a href="https://buymeacoffee.com"><img src="https://img.shields.io/badge/BuyMeaCoffee-%FFD700.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black" width=103px></a>
+<a href="https://buymeacoffee.com"><img src="https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black" width=103px></a>
 
 ### :octocat: Open Source
 
