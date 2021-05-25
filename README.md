@@ -4,8 +4,8 @@
 <a href="mailto:s1170044@usls.edu.ph"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-%23D14836.svg?&style=flat-square&logo=youtube&logoColor=white" width=103px></a>
 <a href="https://buymeacoffee.com"><img src="https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black" width=153px></a>
->Hi iam FonderElite, iam 17 years old. I know several programming languages, iam a front end web developer and planning to be
->full stack in the future and as well as a proffesional penetration tester.
+Hi iam FonderElite, iam 17 years old. I know several programming languages, iam a front end web developer and planning to be
+full stack in the future and as well as a proffesional penetration tester.
 
 ### 👥 Profiles
 <img src="https://www.codewars.com/users/FonderElite/badges/large" width="300px">
