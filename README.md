@@ -1,9 +1,4 @@
-<h1 align="center"> 👋 Hi, I'm  Iam Fonder/Droid</h1> 
-<h2 align="center">🕵️‍♂️A Web dev/CyberSecurity Student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fonderelite&label=Profile%20views&color=0e75b6&style=flat" alt="fonderelite" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fonderelite" alt="fonderelite" /></a> </p>
 
 - 🌱 I’m currently learning **React,NodeJs**
 
@@ -23,20 +18,6 @@
 
 [![Chill Music](https://img.shields.io/badge/Chill%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68k4R2WLQ6mWSybS75OFaC#_=_) [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)<br>
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/68k4R2WLQ6mWSybS75OFaC#_=_)
-
-**Say Hi on Twitter([@elitefonder](https://twitter.com/elitefonder))!** :heart: 💬
-
-## 🏁CyberSec Profile
-<img src="JusticeServed.png" alt="TryHackMe">
-<img src="THM-50CSIP19SL.png" width="500">
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/@fonderelite" target="blank"><img align="center" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" alt="@fonderelite" height="60" width="60" /></a>
-</p>
-
-## 🔴Code-Wars Profile
-<img src="large1.svg" alt="code">
-<br>
 
 
 <h3 align="left">Languages and Tools:</h3>
