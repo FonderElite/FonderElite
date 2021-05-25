@@ -1,15 +1,5 @@
 
 
-- 🌱 I’m currently learning **React,NodeJs**
-
-- 💬 Ask me about **FrontEnd & Python**
-
-- 📫 How to reach me? **FonderElite@protonmail.com**
-
-- ⚡ Fun fact **Iam a weird person**
-
-- 👾 Favorite Languages **JS, Python, C++,**
-
 ### :octocat: Open Source
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/fonderelite) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/fonderelite) [![PRs Welcome](https://komarev.com/ghpvc/?username=fonderelite&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/fonderelite)
