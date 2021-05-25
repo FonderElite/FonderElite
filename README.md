@@ -5,7 +5,7 @@
 <a href="https://youtube.com"><img src="https://img.shields.io/badge/YouTube-%23D14836.svg?&style=flat-square&logo=youtube&logoColor=white" width=103px></a>
 <a href="https://buymeacoffee.com"><img src="https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black" width=153px></a>
 <p>
- Hi iam FonderElite, iam 17 years old. I know several programming languages, iam a front end web developer and planning to be
+ * Hi iam FonderElite, iam 17 years old. I know several programming languages, iam a front end web developer and planning to be
 full stack in the future and as well as a proffesional penetration tester.
 </p>
 
