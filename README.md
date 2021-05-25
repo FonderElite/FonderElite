@@ -7,7 +7,7 @@
 
 ### 💻 Profiles
 <img src="https://www.codewars.com/users/FonderElite/badges/large" width="300px">
-<img src="https://tryhackme-badges.s3.amazonaws.com/JusticeServed.png" alt="TryHackMe">
+<img src="JusticeServed.png" alt="TryHackMe">
 
 ### :octocat: Open Source
 
