@@ -7,7 +7,7 @@
 >Hi iam FonderElite, iam 17 years old. I know several programming languages, iam a front end web developer and planning to be
 >full stack in the future and as well as a proffesional penetration tester.
 
-### 💻 Profiles
+### 👥 Profiles
 <img src="https://www.codewars.com/users/FonderElite/badges/large" width="300px">
 <img src="JusticeServed.png" alt="TryHackMe" width="230px">
 
