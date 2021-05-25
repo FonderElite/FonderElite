@@ -10,9 +10,8 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/68k4R2WLQ6mWSybS75OFaC#_=_)
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left"><img src="https://img.icons8.com/color/26/000000/source-code.png"/> Languages and Tools:</h3>
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank"> 
- <img src="https://img.icons8.com/color/26/000000/source-code.png"/> 
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/>
 <img src="https://img.icons8.com/color/48/000000/css3.png"/>
  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
