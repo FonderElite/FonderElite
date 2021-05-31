@@ -33,6 +33,7 @@ full stack in the future and as well as a proffesional penetration tester.
 <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
 <img src="https://img.icons8.com/color/48/000000/php.png"/>
  <img src="https://img.icons8.com/color/48/000000/c-plus-plus.png"/>
+  <img src="https://img.icons8.com/color/48/000000/go.png"/>
 <img src="https://img.icons8.com/color/48/000000/python.png"/>
 <img src="https://img.icons8.com/office/48/000000/console.png"/>
 <a><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
