@@ -4,7 +4,6 @@
 <a href="mailto:s1170044@usls.edu.ph"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://youtube.com"><img src="https://camo.githubusercontent.com/e197ad3f9c184c8c2611d1ad9488cf603a76e9d6594f63d2e922e1158f3c052e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d2532334431343833362e7376673f267374796c653d666c61742d737175617265266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" width=103px></a>
 <a href="https://buymeacoffee.com"><img src="https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black" width=153px></a>
-<img src="https://camo.githubusercontent.com/dd49a175206209fb633588c81a25c7367200836fd6cbe9d118cad4d097dc2e1b/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6b726973687072616e6176267468656d653d64726163756c61266e6f2d6672616d653d74727565267469746c653d466f6c6c6f776572732c53746172732c436f6d6d69742c5265706f7369746f72792c497373756573">
 
  > Hi iam FonderElite, iam 17 years old. I know several programming languages, 
  >iam a front end web developer and planning to be
