@@ -49,7 +49,7 @@ full stack in the future and as well as a proffesional penetration tester.
 <img src="https://img.icons8.com/plasticine/48/000000/parrot.png"/>
 </p>
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/fonderelite/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=fonderelite&theme=onedark)](https://github.com/fonderelite/github-profile-trophy)
 
 
 ## <img src="https://img.icons8.com/nolan/26/github.png"/> Github Stats
