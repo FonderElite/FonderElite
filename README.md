@@ -12,6 +12,7 @@ full stack in the future and as well as a proffesional penetration tester.
 ### <img src="https://camo.githubusercontent.com/775cff44e1c61c0a646d44eeaba420c99ace22da815995cd69259ba53f39cf0f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e75782e706e67" width="30px"> Profiles
 <img src="https://www.codewars.com/users/FonderElite/badges/large" width="300px">
 <img src="JusticeServed.png" alt="TryHackMe" width="230px">
+<img src="http://www.hackthebox.eu/badge/image/436143" alt="Hack The Box">
 
 ### :octocat: Open Source
 
