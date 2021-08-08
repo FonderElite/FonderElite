@@ -1,7 +1,7 @@
 #  Hi, I'm FonderElite <💻 🎵 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">/>
 <a href="https://www.facebook.com/fonderelite/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" style="max-width:100%;"></a>
 <a href="https://www.linkedin.com/in/fonderelite/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" style="max-width:100%;"></a>
-<a href="mailto:s1170044@usls.edu.ph"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:s1170294@usls.edu.ph"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://youtube.com"><img src="https://camo.githubusercontent.com/e197ad3f9c184c8c2611d1ad9488cf603a76e9d6594f63d2e922e1158f3c052e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d2532334431343833362e7376673f267374796c653d666c61742d737175617265266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" width=103px></a>
 <a href="https://buymeacoffee.com"><img src="https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black" width=153px></a>
 
