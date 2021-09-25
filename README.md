@@ -7,6 +7,27 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+iam+FonderElite.;A+Programmer.;+A+Pentester.;I+love+technology+so+much.;+I+believe+in+Linux+Supremacy.;Currently+learning+Golang+&+Nim.)](https://git.io/typing-svg)
 
+```go
+package main
+import "fmt"
+type Programmer struct{
+name string
+age int
+hobbies string
+}
+func Introduction(name string,age int,hobbies string)*Programmer{
+call_struct := Programmer{name:name,age:age,hobbies:hobbies}
+fmt.Printf("Hello iam %v and iam %d years old.\n",call_struct.name,call_struct.age)
+fmt.Println("My hobbies are: ")
+for _, s := range call_struct.hobbies {
+    fmt.Println(s)
+   }
+ }
+func main(){
+favourite_hobbies := []string{"Programming","Pentesting","Chess"}
+Introduction("FonderElite",17,favourite_hobbies)
+}
+```
 ### <img src="https://camo.githubusercontent.com/775cff44e1c61c0a646d44eeaba420c99ace22da815995cd69259ba53f39cf0f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e75782e706e67" width="30px"> Profiles
 <img src="https://www.codewars.com/users/FonderElite/badges/large" width="300px">
 <img src="JusticeServed.png" alt="TryHackMe" width="230px">
