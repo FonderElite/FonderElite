@@ -7,7 +7,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+iam+FonderElite.;A+Programmer.;+A+Pentester.;I+love+technology+so+much.;+I+believe+in+Linux+Supremacy.;I+believe+in+Nim+Supremacy;Currently+learning+Golang.)](https://git.io/typing-svg)
 
-<img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+<img src="fonder.gif">
 
 ```go
 package main
