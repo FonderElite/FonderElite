@@ -5,6 +5,8 @@
 <a href="https://youtube.com"><img src="https://camo.githubusercontent.com/e197ad3f9c184c8c2611d1ad9488cf603a76e9d6594f63d2e922e1158f3c052e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f596f75547562652d2532334431343833362e7376673f267374796c653d666c61742d737175617265266c6f676f3d796f7574756265266c6f676f436f6c6f723d7768697465" width=103px></a>
 <a href="https://buymeacoffee.com"><img src="https://img.shields.io/badge/BuyMeaCoffee-%23FFDD00.svg?&style=flat-square&logo=buy-me-a-coffee&logoColor=black" width=153px></a>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+iam+FonderElite,+iam+17+years+old.+I+know+several+programming+languages;Second+line+of+text)](https://git.io/typing-svg)
+
  > Hi iam FonderElite, iam 17 years old. I know several programming languages, 
  >iam a front end web developer and planning to be
 full stack in the future and as well as a proffesional penetration tester.
@@ -60,6 +62,7 @@ full stack in the future and as well as a proffesional penetration tester.
 <a href="https://github.com/FonderElite/facerecognition">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FonderElite&repo=facerecognition&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
 </a>
+
 <a href="https://github.com/FonderElite/deadswitch">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FonderElite&repo=deadswitch&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
 </a>    
