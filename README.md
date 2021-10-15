@@ -1,6 +1,6 @@
 #  Hi, I'm FonderElite <💻 🏁 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+iam+FonderElite.;A+Programmer.;+A+Pentester.;I+am+a+technology+addict.;+I+believe+in+Linux+Supremacy.;I+believe+in+Nim+Supremacy.;Currently+learning+Golang.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=teko&color=%2316E108&width=465&lines=Hello+Iam+FonderElite.;A+technology+addicted+kid.;I+believe+in+linux+supremacy.;I+believe+in+golang+supremacy.;print(%22Welcome+To+My+Github+Profile%22).)](https://git.io/typing-svg)
 
 ### <img src="https://facebookbrand.com/wp-content/uploads/2020/10/Logo_Messenger_NewBlurple-399x399-1.png?w=399&h=399" width="20px"> Social Platforms 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
