@@ -1,12 +1,13 @@
 #  Hi, I'm FonderElite <💻 🏁 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">/>
 
-| **Social Media** | ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
+| **Social Media**    |  ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ![Messenger](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)
 ![Protonmail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![YouTube](https://img.shields.io/badge/FonderElite-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white) |
+![YouTube](https://img.shields.io/badge/FonderElite-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)  |
+| ----------- | ----------- |
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+iam+FonderElite.;A+Programmer.;+A+Pentester.;I+am+a+technology+addict.;+I+believe+in+Linux+Supremacy.;I+believe+in+Nim+Supremacy.;Currently+learning+Golang.)](https://git.io/typing-svg)
 
