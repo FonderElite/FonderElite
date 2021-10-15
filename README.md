@@ -7,8 +7,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+iam+FonderElite.;A+Programmer.;+A+Pentester.;I+am+a+technology+addict.;+I+believe+in+Linux+Supremacy.;I+believe+in+Nim+Supremacy.;Currently+learning+Golang.)](https://git.io/typing-svg)
 
-<img src="FonderElite.png">
-
 ### :octocat: Open Source
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/fonderelite) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/fonderelite) [![PRs Welcome](https://komarev.com/ghpvc/?username=fonderelite&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/fonderelite)
