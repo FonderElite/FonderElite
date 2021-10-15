@@ -18,8 +18,6 @@
  ### :headphones: Spotify Playing
 
 [![Chill Music](https://img.shields.io/badge/Chill%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/68k4R2WLQ6mWSybS75OFaC#_=_) [![Programming Music](https://img.shields.io/badge/Programming%20Music-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/1FWq5Cu05LmtSHgFEXRnZO?si=FozGJF9nRXq2wTv_JpN2wQ)<br>
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/playlist/0MJBni0UzdnML1amikx0Rc)
-
 
 ### <img src="https://www.transparentpng.com/thumb/anonymous-mask/guy-fawkes-mask-pictures-10.png" width="60px"> Pentesting Platforms
 | **CTF Platforms** | ![TryHackMe](https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label=) ![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) | 
