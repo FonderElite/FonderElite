@@ -9,10 +9,11 @@
 
 <img src="FonderElite.png">
 
-### <img src="https://camo.githubusercontent.com/775cff44e1c61c0a646d44eeaba420c99ace22da815995cd69259ba53f39cf0f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e75782e706e67" width="30px"> Profiles
-<img src="https://www.codewars.com/users/FonderElite/badges/large" width="300px">
-<img src="JusticeServed.png" alt="TryHackMe" width="230px">
-<img src="htb.png" width=230px">
+### <img src="https://img.icons8.com/ios/50/000000/fsociety-mask.png"> Pentesting Platforms
+| **CTF Platforms** | ![TryHackMe](https://img.shields.io/static/v1?style=for-the-badge&message=TryHackMe&color=212C42&logo=TryHackMe&logoColor=FFFFFF&label=) ![Hack The Box](https://img.shields.io/static/v1?style=for-the-badge&message=Hack+The+Box&color=222222&logo=Hack+The+Box&logoColor=9FEF00&label=) | 
+:--- | :---
+| **Bug Bounty** | ![Bugcrowd](https://img.shields.io/static/v1?style=for-the-badge&message=Bugcrowd&color=F26822&logo=Bugcrowd&logoColor=FFFFFF&label=) ![HackerOne](https://img.shields.io/static/v1?style=for-the-badge&message=HackerOne&color=494649&logo=HackerOne&logoColor=FFFFFF&label=) |
+
 
 ### :octocat: Open Source
 
