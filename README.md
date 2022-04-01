@@ -1,6 +1,6 @@
 #  Hi, I'm FonderElite <💻 🏁 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">/>
 
-<a href="https://app.daily.dev/FonderElite"><img align="left" src="https://api.daily.dev/devcards/a359c3115f434881ad500d689c793803.png?r=i8h" width="400" alt="FonderElite's Dev Card"/></a>
+<a href="https://app.daily.dev/FonderElite"><img align="right" src="https://api.daily.dev/devcards/a359c3115f434881ad500d689c793803.png?r=i8h" width="400" alt="FonderElite's Dev Card"/></a>
 
 ### <img src="https://facebookbrand.com/wp-content/uploads/2020/10/Logo_Messenger_NewBlurple-399x399-1.png?w=399&h=399" width="20px"> Social Platforms 
 ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
