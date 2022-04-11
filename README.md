@@ -55,11 +55,8 @@
 </a>    
 
 
-<a href="https://github.com/FonderElite/deadswitch">
+<a href="https://github.com/FonderElite/elite-cipher">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=FonderElite&repo=elite-cipher&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
 </a>    
 
-<a href="https://github.com/FonderElite/deadswitch">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=FonderElite&repo=Log4j_exploit&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=141321" />
-</a>    
 
