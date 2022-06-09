@@ -1,4 +1,4 @@
-#  Hi, I'm FonderElite <💻 🏁 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">/>
+#  Hi, I'm FonderElite <💻 🏁 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">/>
 
 <a href="https://app.daily.dev/FonderElite"><img align="right" src="https://api.daily.dev/devcards/a359c3115f434881ad500d689c793803.png?r=i8h" width="400" alt="FonderElite's Dev Card"/></a>
 
