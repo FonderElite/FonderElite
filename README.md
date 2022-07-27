@@ -1,4 +1,4 @@
-<img src="Intro.gif" width="600px">
+<!--<img src="Intro.gif" width="600px">-->
 
 <a href="https://app.daily.dev/FonderElite"><img src="https://api.daily.dev/devcards/a359c3115f434881ad500d689c793803.png?r=l2g" width="400" alt="FonderElite's Dev Card" align="right"/></a>
 
